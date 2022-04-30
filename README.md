@@ -9,8 +9,12 @@
 ### <div align="center">My Name is Mohamed Salah, a full-stack Top-Rated-Freelancer developer 👨‍💻 working remotely since 2019 🚀</div>  
 
 
-- 🔭 I’m currently working With [Làcrima Dairy Industrial Ltd](https://www.anuga.com/exhibitors-2021/list-of-exhibitors/?fw_goto=aussteller/aussteller/lacrima)  
+- 🔭 I’m currently working at [Làcrima Dairy Industrial Ltd](https://www.anuga.com/exhibitors-2021/list-of-exhibitors/?fw_goto=aussteller/aussteller/lacrima)
+- ✍ You can find my resume here [Resume]  
+
 - 📫 How to reach me **mohammed.salaheldin22@gmail.com**
+
+
 
 
 - ❓ Ask me about anything related to Desktop Apps, Web Apps, Mobile apps and Machine Learning development, and related technologies  
@@ -161,4 +165,4 @@
 <br/>
 -->
 
-
+[resume]: https://drive.google.com/file/d/1i7WuLf9WNWq1LouZkrPg3JQk8XFsDaMo/view?usp=sharing
