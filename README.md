@@ -7,7 +7,8 @@
   
 
 - 🔭 I’m currently working With [Làcrima Dairy Industrial Ltd](https://www.anuga.com/exhibitors-2021/list-of-exhibitors/?fw_goto=aussteller/aussteller/lacrima)  
-  
+- 📫 How to reach me **mohammed.salaheldin22@gmail.com**
+
 
 - ❓ Ask me about anything related to Desktop Apps, Web Apps, Mobile apps and Machine Learning development, and related technologies  
   
