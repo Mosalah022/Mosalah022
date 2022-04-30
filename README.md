@@ -4,7 +4,7 @@
   
 
 ### <div align="center">My Name is Mohamed Salah, a full-stack Top-Rated-Freelancer developer 👨‍💻 working remotely since 2019 🚀</div>  
-  
+  <!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
 
 - 🔭 I’m currently working With [Làcrima Dairy Industrial Ltd](https://www.anuga.com/exhibitors-2021/list-of-exhibitors/?fw_goto=aussteller/aussteller/lacrima)  
 - 📫 How to reach me **mohammed.salaheldin22@gmail.com**
