@@ -2,9 +2,12 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-
-### <div align="center">My Name is Mohamed Salah, a full-stack Top-Rated-Freelancer developer 👨‍💻 working remotely since 2019 🚀</div>  
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash chowrasia</h1>
+<h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3> -->
   <!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
+  
+### <div align="center">My Name is Mohamed Salah, a full-stack Top-Rated-Freelancer developer 👨‍💻 working remotely since 2019 🚀</div>  
+
 
 - 🔭 I’m currently working With [Làcrima Dairy Industrial Ltd](https://www.anuga.com/exhibitors-2021/list-of-exhibitors/?fw_goto=aussteller/aussteller/lacrima)  
 - 📫 How to reach me **mohammed.salaheldin22@gmail.com**
@@ -15,8 +18,7 @@
 
 <br/>  
 
-
-## My Skill Set  
+## <h2> My Skill Set <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  </h2> 
 <table><tr><td valign="top" width="33%">
 
 
@@ -74,7 +76,8 @@
 <br/>  
 
 
-## Connect with me  
+## <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
 <div align="center">
 <a href="https://github.com/Mosalah022" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -124,5 +127,45 @@
 
 
 <br />
+
+
+
+<!-- ## :sassy_man:  About me
+- :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
+- :trophy: `ACPC` Finalist 2021
+- :technologist: I love using Software as a solution for every `Problem`
+- :computer: I am a competitive programmer mainly at `Codeforces`
+- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :nerd_face: Always `learning new things`
+ 
+### 👉 IDEs
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+</p>
+
+### 👉 Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/pop!_os-%2348B9C7.svg?style=plastic&&logo=pop!_os&logoColor=white" /></a>	  
+</p>
+
+<br/>
+-->
 
 
