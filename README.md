@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working as a Teacher Assistant at [Nile University](https://nu.edu.eg/home)
-- also as a Full-Stack-Developer at [Làcrima Dairy Industrial Ltd](https://www.anuga.com/exhibitors-2021/list-of-exhibitors/?fw_goto=aussteller/aussteller/lacrima)
+- also as a Full-Stack-Developer at [Làcrima Dairy Industrial Ltd](https://www.facebook.com/lacrimamiddleeast/)
 - ✍ You can find my resume here [Resume]  
 
 - 📫 How to reach me **mohammed.salaheldin22@gmail.com**
