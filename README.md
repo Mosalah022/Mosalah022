@@ -9,7 +9,7 @@
 ### <div align="center">My Name is Mohamed Salah, a full-stack Top-Rated-Freelancer developer 👨‍💻 working remotely since 2019 🚀</div>  
 
 
-- 🔭 I’m currently working as a Teacher Assistant at [Nile University](https://itcs.nu.edu.eg/)
+- 🔭 I’m currently working as a Teacher Assistant at [Nile University](https://itcs.nu.edu.eg)
 - also as a Full-Stack-Developer at [Làcrima Dairy Industrial Ltd](https://www.facebook.com/lacrimamiddleeast/)
 - ✍ You can find my resume here [Resume]  
 
