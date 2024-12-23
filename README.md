@@ -9,11 +9,10 @@
 ### <div align="center">My Name is Mohamed Salah, a full-stack Top-Rated-Freelancer developer 👨‍💻 working remotely since 2019 🚀</div>  
 
 
-- 🔭 I’m currently working as a Teacher Assistant at [Nile University](http://itcs.nu.edu.eg/)
-- also as a Full-Stack-Developer at [Làcrima Dairy Industrial Ltd](https://www.facebook.com/lacrimamiddleeast/)
+- 🔭 I’m currently working as a Research Assistant at [Virginia Commonwealth University]([http://itcs.nu.edu.eg/](https://music.lab.vcu.edu/people/))
 - ✍ You can find my resume here [Resume]  
 
-- 📫 How to reach me **mohammed.salaheldin22@gmail.com**
+- 📫 How to reach me **Kamelms@vcu.edu**
 
 
 
@@ -166,4 +165,4 @@
 <br/>
 -->
 
-[resume]: https://drive.google.com/file/d/1Chx4SBv3DCV5DLwtZ5elo242dS4xSR7o/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1bDq445bwfcpp41PGunzTjr7dkfiEupV7/view?usp=sharing
