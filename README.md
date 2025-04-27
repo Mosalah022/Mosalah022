@@ -81,12 +81,11 @@
 
 
 ## <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
 <div align="center">
 <a href="https://github.com/Mosalah022" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/mohamed-salah-eldin-kamel-597684182/" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed-kamel-597684182/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/mohammed.salah.36" target="_blank">
@@ -164,5 +163,4 @@
 
 <br/>
 -->
-
-[resume]: https://drive.google.com/file/d/1bDq445bwfcpp41PGunzTjr7dkfiEupV7/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1T7xKNG7F_v-J_TQMk4WbptGWSHvBLXsV/view?usp=sharing
