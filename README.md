@@ -18,7 +18,7 @@
 
 
 
-- ❓ Ask me about anything related to Desktop Apps, Web Apps, Mobile apps and Machine Learning development, and related technologies  
+- ❓ Ask me about anything related AI, including ML, DL, CV, LLMs or Desktop Apps, Web Apps, Mobile apps development, and related technologies  
   
 
 <br/>  
