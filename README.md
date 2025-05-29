@@ -6,10 +6,11 @@
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3> -->
   <!-- <h3 align="center">Student at MITS, Gwalior🌟.</h3> -->
   
-### <div align="center">My Name is Mohamed Salah, a full-stack Top-Rated-Freelancer developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">My Name is Mohamed Kamel, ML Researcher | CV | LLMs | JAVA | Web | PhD in Computer Science @ Virginia Commonwealth University 👨‍💻   </div>  
 
 
 - 🔭 I’m currently working as a Research Assistant at [Virginia Commonwealth University]([http://itcs.nu.edu.eg/](https://music.lab.vcu.edu/people/))
+- 🚀 a full-stack Top-Rated-Freelancer developer on Upwork (https://www.upwork.com/freelancers/~012caef8cefa11d50b)
 - ✍ You can find my resume here [Resume]  
 
 - 📫 How to reach me **Kamelms@vcu.edu**
