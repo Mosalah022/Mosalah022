@@ -9,7 +9,7 @@
 ### <div align="center">My Name is Mohamed Kamel, ML Researcher | CV | LLMs | JAVA | Web | PhD in Computer Science @ Virginia Commonwealth University 👨‍💻   </div>  
 
 
-- 🔭 I’m currently working as a Research Assistant at [Virginia Commonwealth University]([http://itcs.nu.edu.eg/](https://music.lab.vcu.edu/people/))
+- 🔭 I’m currently working as a Research Assistant at [Virginia Commonwealth University](https://music.lab.vcu.edu/people/)
 - 🚀 a full-stack Top-Rated-Freelancer developer on Upwork (https://www.upwork.com/freelancers/~012caef8cefa11d50b)
 - ✍ You can find my resume here [Resume]  
 
